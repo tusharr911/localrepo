@@ -1,3 +1,8 @@
 div {
   color: aqua;
 }
+
+p {
+  /*added a new feature for branch 2*/
+  color: firebrick;
+}
